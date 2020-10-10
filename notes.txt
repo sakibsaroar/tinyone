@@ -1,0 +1,13 @@
+psd to html image-
+
+adobe cc
+alt + click to view item alone.
+ctrl+alt+shift+s to save as web element 
+save as png-24
+
+
+mr-auto:margin right auto
+mr-left:margin left auto
+m-auto:margin auto
+
+!important: cancel everything other than written one
